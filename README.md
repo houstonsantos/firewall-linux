@@ -1,6 +1,6 @@
 ## Iptables, Squid Sarg e Load Balance
 
-<p>
+<p align="center">
     <img width="250" height="300" src="http://tidahora.com.br/wp-content/uploads/2018/03/iptables-family-guy.gif">
 </p>
 
